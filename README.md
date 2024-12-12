@@ -18,6 +18,5 @@ After i checked my details and they are correct i then pressed the create securi
 i type out ec2 on the aws console,i choose the region i want to launch my instance i click on instances then i checked for LAUNCH INSTANCE by the corner of the  console,i clicked on it i write the name i wanted for the ec2 below is the picture
 ![launch instance picture details](/instancelaunch.png)
 ### CHOOSING THE AMI
-I choose amazon linus under quick start then i go down under AMI to choose Amazon Linus 2 AMI(HVM) below is the picture
+I choose amazon linus as the operating system under quick start then i go down under AMI to choose Amazon Linus 2 AMI(HVM) and t2.micro as the instance type below is the picture
 ![AMI picture details](/instance-launch2.png)
-
