@@ -7,4 +7,7 @@ open the security group from the search bar on the aws console,input my sgname a
 #I created inbound rules by allowing ssh and http traffiC
 In the inbound rules info i click on add rules, click on type cursor and choose ssh, close to the type cursor is the custom cursorthen i choose anywhere ipv4, i follow the same process for the http below is the picture
 ![inbound rules picture details](/inbound-rules.png)
+### CREATING OUTBOUND RULES 
+I created outbound rules without making any changes to the default below is the picture
+![outbound rules picture details](/outbound-rules.png)
 
