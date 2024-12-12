@@ -38,11 +38,11 @@ command prompt page  it brought option of yes or no i typed yes below is the rep
 ![ssh connect picture details](/instanceid.png)
 ![command prompt picture details](/command-prompt1.png)
 I then go to the project guide to run the apache command by copying the link one by one on the command prompt after each one i press the enter button below are pictures to confirm my claim
-![command prompt picture details](/command-prompt1)
-![command prompt picture details](/command-prompt2)
-![command prompt picture details](/command-prompt3)
+![command prompt picture details](/command-prompt.png)
+![command prompt picture details](/command-prompt2.png)
+![command prompt picture details](/command-prompt3.png)
 ### RUNNING THE APACHE ON MY BROWSER
 I go back to my launched instance i clicked on it under it was my public subnet information i click on the copy button it then copied the link below is the picture
 ![public subnet picture details](/instance-running.png)
 I paste the copied link on my chrome brower below is the apache running picture
-![apache running picture details](/apache)
+![apache running picture details](/apache.png)
