@@ -20,3 +20,14 @@ i type out ec2 on the aws console,i choose the region i want to launch my instan
 ### CHOOSING THE AMI
 I choose amazon linus as the operating system under quick start then i go down under AMI to choose Amazon Linus 2 AMI(HVM) and t2.micro as the instance type below is the picture
 ![AMI picture details](/instance-launch2.png)
+### CREATING THE KEYPAIR
+I created my keypair from the keypair info under the launch instance,beside was create new keypair i clicked on it and it bring options that i had to fill,my keypair name ,the type and the file format. i write the name i want for my keypair,i choose RSA as my keypair type and .pem as my file format below is the pictureof the 
+keypair
+![keypair picture details](/keypair.png)
+### CREATING THE NETWORK SETTING
+I created the network setting with the lita_project-vpc,lita_project-subnet-public1,i then enable the auto assign publicIP and i choose my previous created security group as the firewall and i leave the configure storage at 8gb, i then review all the settings when they are all in order i clicked on launch
+instance at the end of the page. below is the picture of the network setting and it was successfully launched.
+![network settings picture details](/network-setting.png)
+![successfully launched picture details](/instance-successful-running)
+
+-
