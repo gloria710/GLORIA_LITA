@@ -10,6 +10,9 @@ In the inbound rules info i click on add rules, click on type cursor and choose 
 ### CREATING OUTBOUND RULES 
 I created outbound rules without making any changes to the default below is the picture
 ![outbound rules picture details](/outbound-rules.png)
+### SUCCESSFULLY CREATED THE SECURITY GROUP
+After i checked my details and they are correct i then pressed the create security group at the down of the page, security group was successfully created below is the picture
+![successfully created security group picture details](/successfully-createdsg.png)
 ### LAUNCHING THE EC2 INSTANCE USING THE SUBNETS PROVIDED BY LITA
 # I create the name and tag
 i type out ec2 on the aws console,i choose the region i want to launch my instance i click on instances then i checked for LAUNCH INSTANCE by the corner of the  console,i clicked on it i write the name i wanted for the ec2 below is the picture
