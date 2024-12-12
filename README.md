@@ -46,8 +46,3 @@ I go back to my launched instance i clicked on it under it was my public subnet 
 ![public subnet picture details](/instance-running.png)
 I paste the copied link on my chrome brower below is the apache running picture
 ![apache running picture details](/apache)
-
-
-
-
--
